@@ -1,4 +1,4 @@
-# CNN_style_transfer
+# Neural Style Transfer
 <h2>A Neural Style Transfer - Deep learning Application.</h2>
 
 
